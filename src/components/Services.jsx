@@ -69,7 +69,7 @@ const Services = () => {
                 <h4 className="h4 mb-4">Photo editing</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
                   Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
+                  photo editing feature. Try it now for free!
                 </p>
               </div>
 
